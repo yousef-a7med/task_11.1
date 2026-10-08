@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="array/array.csproj" />
+  <Project Path="Delegate/Delegate.csproj" />
+  <Project Path="Extention_Method/Extention_Method.csproj" />
+</Solution>
